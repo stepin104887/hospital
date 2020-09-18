@@ -40,7 +40,9 @@ PROJECT_NAME = hospital
 BUILD = build
 
 # All source code files
-SRC = src/main.c\
+SRC = main.c\
+src/main.c\
+
 
 # All test source files
 #TEST_SRC = src/calculator_operations.c\
